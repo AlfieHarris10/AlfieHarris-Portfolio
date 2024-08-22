@@ -194,7 +194,7 @@ import {
       name: "Mack Gorman",
       designation: "Founder",
       company: "Konvert",
-      image: "src/assets/mack.jpeg",
+      image: "https://github.com/AlfieHarris10/AlfieHarris-Portfolio/blob/main/mack.jpeg?raw=true",
     },
     {
       testimonial: "Alfie created branding guidelines for my business. He took everything that I wanted and produced some great results. ",
@@ -208,7 +208,7 @@ import {
       name: "George Peaurt",
       designation: "Founder",
       company: "Dub Mantra",
-      image: "src/assets/dubmantra.jpeg",
+      image: " image: "https://github.com/AlfieHarris10/AlfieHarris-Portfolio/blob/main/dubmantra.jpeg?raw=true",
     },
   ];
   
